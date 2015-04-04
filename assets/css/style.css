@@ -8,6 +8,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   line-height: 1.5;
+  overflow: hidden;
 }
 .segment {
   height: 100vh;
